@@ -99,5 +99,3 @@ uvicorn main:app --reload --port 8000
 
 ---
 
-## 📝 License
-This project is proprietary.
